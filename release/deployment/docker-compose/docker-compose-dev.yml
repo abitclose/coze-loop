@@ -4,4 +4,4 @@ services:
     build:
       context: ../../..
       dockerfile: ./release/image/Dockerfile
-    image: "coze-dev/coze-loop:dev"
+    image: "cozedev/coze-loop:dev"
